@@ -1,2 +1,3 @@
-# Projects
- Projects that I worked on during my masters.
+# Emotion Recognition through audio and images
+ 
+
