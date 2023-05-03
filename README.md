@@ -1,3 +1,3 @@
-# Emotion Recognition through audio and images
+# Recommending Music using Emotion Recognition through audio and images
  
 
